@@ -1,2 +1,2 @@
 # D2EC
-Code will be available soon!
+The official implementation of "Towards Concealing Full Text in Images". Code will be available soon!
